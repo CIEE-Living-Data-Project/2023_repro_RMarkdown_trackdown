@@ -22,7 +22,7 @@ if(!file.exists("00-rawdata/_README.md")) {file.create("00-rawdata/_README.md")}
 if(!file.exists("00-rawdata/DATA-DICTIONARY.md")) {file.create("00-rawdata/DATA-DICTIONARY.md")}
 if(!file.exists("01-scripts/_README.md")) { file.create("01-scripts/_README.md")}
 if(!file.exists("01-scripts/r_scripts/_README.md")) { file.create("01-scripts/r_scripts/_README.md")}
-if(!file.exists("01-scripts/RMD/_README.md")) { file.create("01-scripts/RMD/_README.md")}
+if(!file.exists("01-scripts/RMD_scripts/_README.md")) { file.create("01-scripts/RMD_scripts/_README.md")}
 if(!file.exists("02-outdata/_README.md")) { file.create("02-outdata/_README.md")}
 if(!file.exists("02-outdata/_DATA-DICTIONARY.md")) {file.create("02-outdata/_DATA-DICTIONARY.md")}
 if(!file.exists("03-figs/_README.md")) { file.create("03-figs/_README.md")}
